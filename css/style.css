@@ -1,0 +1,117 @@
+@font-face {
+	font-family: SegoeUI;
+	src: url("../fonts/segoeui.ttf");
+}
+
+body {
+	background-color: #FFFFFF;
+	font-family: SegoeUI;
+}
+
+.border {
+	border: 2px solid #ddd;
+}
+
+.lightGrayText {
+	color: #ccc;
+}
+
+.investigate {
+	border: 1px solid #A72037;	
+	padding: 3px 18px;
+	border-radius: 0;
+	color: #FFFFFF;
+	font-size: 1em;
+	min-width: 13%;
+	background-color: #A72037;
+}
+
+.investigate:hover, .investigate:focus {
+	background-color: #8E1C2F;
+	color: #FFFFFF;
+}
+
+.h2 {
+	font-size: 1.65em;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+p.lightGrayText {
+	font-size: 1em;
+	margin-bottom: 15px;
+}
+
+.h1 {
+	margin: 0;
+    font-size: 1em;
+}
+
+.H1Container {
+    padding-bottom: 9px;
+    padding-top: 9px;
+}
+
+.leftMinHeight {
+	height: 100%;
+    min-height: 358px;
+	border-right: 2px solid #ddd;
+}
+
+.rightMinHeight {
+	height: 100%;
+    min-height: 358px;
+}
+
+.leftVerticalAlign {
+	margin-top: 15%;
+}
+
+.rightVerticalAlign {
+	margin-top: 14%;
+}
+
+.leftVerticalAlign button {
+	margin-top: 5%;
+	min-width: 45%;
+}
+
+.leftLogoBorder{
+	border-right: 2px solid #ddd;
+	border-bottom: 2px solid #ddd;
+}
+
+
+.leftLogoBackground {
+	background-color: #D53C45;
+}
+
+.design3 .investigate {
+	background-color: #D53C45;
+	border: 1px solid #D53C45;
+}
+.design3 .investigate:hover, .design3 .investigate:focus {
+	background-color: #B6343B;
+	border: 1px solid #B6343B;
+}
+
+.design4 .leftLogoBackground {
+	background-color: #A72037;
+}
+
+.design5 .leftLogoBackground {
+	background-color: #1A305D;
+}
+
+.design5 .investigate {
+	background-color: #FFD248;
+	color: #1A305D;
+	border: 1px solid #FFD248;
+}
+.design5 .investigate:hover, .design5 .investigate:focus {
+	background-color: #D9B33E;
+	border: 1px solid #D9B33E;
+}
+#ajax-content {
+	color: #D53C45;
+}

@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+  <head>
+    <title>People Tech Group Products</title>
+    <script src="popup.js"></script>
+  </head>
+  <body>
+
+<
+</br>
+   
+<div id="container" style="width:200px">
+  	<div>
+<img src="/panel/assets/images/thumb-nail.png" alt="pact" style="margin:0px auto;display:block">
+  	</div>
+  	<h1>Thanks for using pact for Chrome!</h1>
+  	<p>To start testing for accessibility, open the Chrome Developer Tools, navigate to the pact tab, and run an analysis on a webpage.</p>
+  	<p><strong><span class="offscreen">Navigation instructions: </span>Chrome Menu &gt; More Tools &gt; Developer Tools &gt;pact</strong></p>
+  	<p>To learn more, visit <a href="http://pactnewapp.azurewebsites.net/" target="_blank">http://pactnewapp.azurewebsites.net/</a>.</p>
+  </div>
+  </body>
+</html>
